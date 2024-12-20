@@ -2,13 +2,13 @@
 
 December release
 
-## [1.0.0] - 2024-12-19
+## 2024-12-19
 
 ### User Service
 - Implemented new user profile management system
 - Enhanced user data synchronization
 - Added support for multiple user roles
-- Updated user documentation
+    - We can do extra processing on these
 
 ### Auth Service
 - Building out Google and Apple integration
@@ -30,7 +30,6 @@ December release
 ### Payment Gateway
 - Integrated new payment providers
 - Implemented automatic payment retry mechanism
-- Added detailed transaction reporting
 - Enhanced payment security measures
 - Fixed currency conversion issues
 
@@ -53,11 +52,12 @@ December release
 - Regular security patches applied
 - Enhanced DDOS protection
 - Updated SSL/TLS configurations
+- WAF integrated company wide
 
 ### Performance Improvements
 - Improved system scalability
 
 ## Contributors
-- Prabath
-- Nathan
-- Blake
+- [Prabath](https://www.linkedin.com/in/prabath-udakandage-661187199/)
+- [Nathan](https://www.linkedin.com/in/nathan-nguyen-1b40b1188/)
+- [Blake](https://www.linkedin.com/in/blake-meier-335529321/) 
