@@ -60,4 +60,3 @@ December release
 ## Contributors
 - [Prabath](https://www.linkedin.com/in/prabath-udakandage-661187199/)
 - [Nathan](https://www.linkedin.com/in/nathan-nguyen-1b40b1188/)
-- [Blake](https://www.linkedin.com/in/blake-meier-335529321/) 
